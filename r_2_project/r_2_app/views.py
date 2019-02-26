@@ -79,8 +79,12 @@ songs = [
 
 
 def list_songs(request):
-    return HttpResponse('list songs')
+    context = {
+        'song_list': songs
+    }
+
+    return render(request, 'r_2_app/songs.html', context)
 
 
 def list_song(request, song_id):
-    return HttpResponse('song details')
+    return render(request, 'r_2_app/song_details.html', {'current_song': songs[song_id]})

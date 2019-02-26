@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b448e25-8416-48c0-ba68-9ba2ed9cf4aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/r_2_project/r_2_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/r_2_project/r_2_app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/r_2_project/r_2_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/r_2_project/r_2_project/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/r_2_project/r_2_app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="85" column="37" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
+            <state relative-caret-position="123">
+              <caret line="70" column="19" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="19" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -34,11 +33,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/r_2_project/r_2_app/templates/r_2_app/songs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/r_2_project/r_2_app/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            <state relative-caret-position="175">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="28" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -46,10 +54,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/r_2_project/r_2_project/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
+            <state relative-caret-position="257">
               <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#645#677#0" expanded="true" />
@@ -64,6 +72,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -75,8 +84,9 @@
       <list>
         <option value="$PROJECT_DIR$/r_2_project/r_2_project/settings.py" />
         <option value="$PROJECT_DIR$/r_2_project/r_2_app/urls.py" />
-        <option value="$PROJECT_DIR$/r_2_project/r_2_app/views.py" />
         <option value="$PROJECT_DIR$/r_2_project/r_2_project/urls.py" />
+        <option value="$PROJECT_DIR$/r_2_project/r_2_app/views.py" />
+        <option value="$PROJECT_DIR$/r_2_project/r_2_app/templates/r_2_app/songs.html" />
       </list>
     </option>
   </component>
@@ -110,6 +120,12 @@
               <item name="django-review2-templates-cw" type="b2602c69:ProjectViewProjectNode" />
               <item name="django-review2-templates-cw" type="462c0819:PsiDirectoryNode" />
               <item name="r_2_project" type="462c0819:PsiDirectoryNode" />
+              <item name="r_2_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-review2-templates-cw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-review2-templates-cw" type="462c0819:PsiDirectoryNode" />
+              <item name="r_2_project" type="462c0819:PsiDirectoryNode" />
               <item name="r_2_project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -120,9 +136,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551211244342" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551214347405" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../endpoints1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -152,12 +169,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551208988155</updated>
-      <workItem from="1551208992685" duration="2395000" />
+      <workItem from="1551208992685" duration="5230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2395000" />
+    <option name="totallyTimeSpent" value="5230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1280" height="644" extended-state="6" />
@@ -168,7 +185,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1871961" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1871961" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -205,33 +222,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/r_2_project/r_2_app/views.py">
+    <entry file="file://$PROJECT_DIR$/r_2_project/r_2_project/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="85" column="37" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
+        <state relative-caret-position="257">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#645#677#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/r_2_project/r_2_app/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        <state relative-caret-position="175">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="28" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/r_2_project/r_2_project/urls.py">
+    <entry file="file://$PROJECT_DIR$/r_2_project/r_2_app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="123">
+          <caret line="70" column="19" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="19" />
           <folding>
-            <element signature="e#645#677#0" expanded="true" />
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/r_2_project/r_2_app/templates/r_2_app/songs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
