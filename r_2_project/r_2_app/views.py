@@ -1,5 +1,5 @@
+from django.http import HttpResponse
 from django.shortcuts import render
-
 
 songs = [
     {
@@ -75,6 +75,12 @@ songs = [
         'song_audio': 'https://youtu.be/Eo7oGCUYE3w'
     }
 
-
 ]
 
+
+def list_songs(request):
+    return HttpResponse('list songs')
+
+
+def list_song(request, song_id):
+    return HttpResponse('song details')
