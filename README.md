@@ -1,3 +1,6 @@
+### POINTS: .5
+### KEY: Did not fully implement additional view
+
 # Django review: routes/template inheritance
 
 Finish the song application by finishing the song details page that takes a dynamic URL and route it appropriately.
